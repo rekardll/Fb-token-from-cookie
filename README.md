@@ -1,6 +1,6 @@
 # Fb-token-from-cookie
 ```
-pkg update && pkg upgrade
+$ pkg update && pkg upgrade
 
 $ pkg install python
 
