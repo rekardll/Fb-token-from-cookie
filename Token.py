@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
-
+# Made By Tech Abm 
 import requests, re
 
 print('\n** < GET FB ACCESS TOKEN FROM COOKIE > **\n')
