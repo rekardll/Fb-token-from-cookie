@@ -29,4 +29,7 @@ $ cd Fb-token-from-cookie
 $ python Token.py
 ```
 # How do i use 
-- 
+- First you go to play store and download ```kiwi browser```
+
+- Open kiwi browser and search ```CDN HEADER AND COOKIES```
+
