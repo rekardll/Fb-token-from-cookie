@@ -28,3 +28,5 @@ $ cd Fb-token-from-cookie
 
 $ python Token.py
 ```
+# How do i use 
+- 
