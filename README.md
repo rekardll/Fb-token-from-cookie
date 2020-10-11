@@ -28,8 +28,20 @@ $ cd Fb-token-from-cookie
 
 $ python Token.py
 ```
-# How do i use 
+# How do i use
 - First you go to play store and download ```kiwi browser```
 
+- Kiwi browser link : https://play.google.com/store/apps/details?id=com.kiwibrowser.browser
+
 - Open kiwi browser and search ```CDN HEADER AND COOKIES```
+
+- CDN HEADER AND COOKIES link : https://chrome.google.com/webstore/detail/cdn-headers-cookies/obldlamadkihjlkdjblncejeblbogmnb?hl=en
+
+- Login your fb account in Kiwi browser and go to 3 dot in kiwi browser and get cookies 
+
+- Then open your termux and paste this cookies in these script 
+
+- So finally, your token show 
+
+- Then you enjoy fb cloning 
 
