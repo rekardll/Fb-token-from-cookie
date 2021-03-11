@@ -1,12 +1,8 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
 # Made By Tech Abm 
-try:
-    import os,re,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests
-    from multiprocessing.pool import ThreadPool
-except ImportError:
-# cookies method 
-    os.system("python Token.py")
+import os,re,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests
+    
 os.system("clear") 
 banner ="""
 \033[1;97m             d8888 888888b.   888b     d888 \033[1;0m
