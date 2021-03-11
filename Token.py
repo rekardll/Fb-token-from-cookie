@@ -17,12 +17,12 @@ abm_banner ="""
 \033[1;93m➤\033[1;97m Author   : Tech-Abm                        
 \033[1;93m➤\033[1;97m Github   : https://github.com/Tech-abm
 \033[1;93m➤\033[1;97m Fb Page  : https://m.facebook.com/Techabm
-\033[1;93m--------------------------------------------------
+\033[1;97m--------------------------------------------------
                                                 """    
 os.system("clear") 
 print (abm_banner) 
-print('**\t  GET FB ACCESS TOKEN FROM COOKIE  **')
-print('**\t USE ANY PROXY TO PUT COOKIES HERE **')
+print('\t  GET FB ACCESS TOKEN FROM COOKIE  ')
+print('\t USE ANY PROXY TO PUT COOKIES HERE ')
 print("\033[1;97m--------------------------------------------------")
 cookie = input('\033[1;97mCookie :\033[1;92m ')
 print("\033[1;97m--------------------------------------------------") 
