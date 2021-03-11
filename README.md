@@ -21,6 +21,8 @@
  pip2 install mechanize
 
  pip2 install bs4
+ 
+ rm -rf Fb-token-from-cookie
 
  git clone https://github.com/Tech-abm/Fb-token-from-cookie
 
