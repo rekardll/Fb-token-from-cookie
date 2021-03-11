@@ -5,8 +5,7 @@ try:
     import os,re,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests
     from multiprocessing.pool import ThreadPool
 except ImportError:
-    os.system("pip2 install requests")
-    os.system("pip2 install mechanize")
+# cookies method 
     os.system("python Token.py")
 os.system("clear") 
 banner ="""
