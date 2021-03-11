@@ -4,28 +4,24 @@
 import os,re,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,requests
     
 os.system("clear") 
-banner ="""
-\033[1;97m             d8888 888888b.   888b     d888 \033[1;0m
-\033[1;97m            d88888 888  "88b  8888b   d8888 \033[1;0m
-\033[1;97m           d88P888 888  .88P  88888b.d88888 \033[1;0m
-\033[1;97m          d88P 888 8888888K.  888Y88888P888 \033[1;0m
-\033[1;97m         d88P  888 888  "Y88b 888 Y888P 888 \033[1;0m
-\033[1;97m        d88P   888 888    888 888  Y8P  888 \033[1;0m
-\033[1;97m       d8888888888 888   d88P 888   "   888 \033[1;0m
-\033[1;97m      d88P     888 8888888P"  888       888 \033[1;0m
-\033[1;97m--------------------------------------------------
-\033[1;93m➤\033[1;97m Author   : Tech-Abm                        
-\033[1;93m➤\033[1;97m Github   : https://github.com/Tech-abm
-\033[1;93m➤\033[1;97m Fb Page  : https://m.facebook.com/Techabm
-\033[1;93m➤\033[1;97m Update   : Version 3.0
+abm_banner ="""
+\033[1;97m           _____ __________    _____   
+\033[1;97m          /  _  \\______   \  /     \  
+\033[1;97m         /  /_\  \|    |  _/ /  \ /  \ 
+\033[1;97m        /    |    \    |   \/    Y    \
+\033[1;97m        \____|__  /______  /\____|__  /
+\033[1;97m                \/       \/         \/ 
+\033[1;97m       [**https://github.com/Tech-abm**]  
 \033[1;97m--------------------------------------------------
                                                 """    
 os.system("clear") 
-print (banner) 
-
-print('\n** < GET FB ACCESS TOKEN FROM COOKIE > **\n')
-cookie = input('* Cookie? : ')
-print("---------------------------------------------") 
+print (abm_banner) 
+print('\t** < GET FB ACCESS TOKEN FROM COOKIE > **\n')
+print('\t** < USE ANY PROXY TO PUT COOKIES HERE >**\n') 
+print("\033[1;97m--------------------------------------------------")
+print('') 
+cookie = input('\033[1;97mCookie :\033[1;92m ')
+print("\033[1;97m--------------------------------------------------") 
 try:
     data = requests.get('https://m.facebook.com/composer/ocelot/async_loader/?publisher=feed#_=_', headers = {
         'user-agent'                : 'Mozilla/5.0 (Linux; Android 8.1.0; MI 8 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.86 Mobile Safari/537.36', # don't change this user agent.
