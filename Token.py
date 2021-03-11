@@ -21,8 +21,8 @@ abm_banner ="""
                                                 """    
 os.system("clear") 
 print (abm_banner) 
-print('** < GET FB ACCESS TOKEN FROM COOKIE > **').center(50)
-print('** < USE ANY PROXY TO PUT COOKIES HERE >**').center(50)
+print('**\t  GET FB ACCESS TOKEN FROM COOKIE  **')
+print('**\t USE ANY PROXY TO PUT COOKIES HERE **')
 print("\033[1;97m--------------------------------------------------")
 cookie = input('\033[1;97mCookie :\033[1;92m ')
 print("\033[1;97m--------------------------------------------------") 
