@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
 # Made By Tech Abm 
-import os,re,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests
+import os,re,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,requests
     
 os.system("clear") 
 banner ="""
